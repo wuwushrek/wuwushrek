@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arshsahzad" alt="arshsahzad"/></p>
+
+### Hi there, I'm Franck 👋
+
+<img src="https://raw.githubusercontent.com/wuwushrek/wuwushrek/output/github-contribution-grid-snake.svg" />
+
+[![Franck's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuwushrek)](https://github.com/wuwushrek/github-readme-stats)
+
+<h2 align="center"> My Github Statistics
+  <br><img src="https://github.com/wuwushrek/wuwushrek/blob/main/github-metrics.svg"><br> 
+</h2>
 
 <!--
 **wuwushrek/wuwushrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
