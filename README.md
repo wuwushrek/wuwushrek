@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wuwushrek" alt="arshsahzad"/></p>
 
 ### Hi there, I'm [Franck](https://franckdjeumou.github.io/) 👋
-I am currently a fourth-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.utexas.edu/) at the University of Texas at Austin, and a member of [Autonomous Systems Group](https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page).
+I am currently a fourth-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.utexas.edu/) at the University of Texas at Austin, and a member of the [Autonomous Systems Group](https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page).
 
 <img src="https://raw.githubusercontent.com/wuwushrek/wuwushrek/output/github-contribution-grid-snake.svg" />
 
