@@ -56,4 +56,4 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 3
           plugin_activity_days: 0
-          plugin_activity_filter: public, member, issue, fork, ref/create
+          plugin_activity_filter: public, star, comment, member, issue, fork, pr, ref/create
