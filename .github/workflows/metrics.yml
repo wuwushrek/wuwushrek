@@ -48,8 +48,8 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           
-          plugin_stars: yes
-          plugin_stars_limit: 3
+#           plugin_stars: yes
+#           plugin_stars_limit: 3
           
           plugin_introduction: yes
           
